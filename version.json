@@ -1,0 +1,8 @@
+{
+  "versionCode": 14,
+  "versionName": "2.4",
+  "apkUrl": "https://github.com/fruiteshg-lgtm/FS-AppLock-Updates/releases/download/v2.4/app-release.apk",
+  "sha256": "PASTE_ACTUAL_64_CHARACTER_APK_SHA256",
+  "mandatory": false,
+  "notes": "FS AppLock v2.4 is available."
+}
