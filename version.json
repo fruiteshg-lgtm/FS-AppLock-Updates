@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "2.4",
-  "apkUrl": "https://github.com/fruiteshg-lgtm/FS-AppLock-Updates/releases/download/v2.4/app-release.apk",
-  "sha256": "1c930f77aea7e27304d8883dd9104e24da8d4519d39b475684ffd01319f32b89",
+  "versionCode": 16,
+  "versionName": "2.4.2",
+  "apkUrl": "https://github.com/fruiteshg-lgtm/FS-AppLock-Updates/releases/download/v2.4.2/app-release.apk",
+  "sha256": "3d517cc622f679229fa08dd8724c440dbba15728222edc41b14b35c9d558ddc4",
   "mandatory": false,
-  "notes": "FS AppLock v2.4 — stability, PIN and parental-control improvements."
+  "notes": "FS AppLock v2.4.2 - Improved UI, Unlimited time limit, Custom PIN controls and settings."
 }
