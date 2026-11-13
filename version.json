@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "2.4.3",
-  "apkUrl": "https://github.com/fruiteshg-lgtm/FS-AppLock-Updates/releases/download/v2.4.3/app-release.apk",
-  "sha256": "b7fe85ce9b90a03265635a7dafdb347491467fc046fe139efe7c28be05ec6a3d",
-  "mandatory": false,
-  "notes": "FS AppLock v2.4.3 - Aurora UI, security controls and usability improvements."
+    "versionCode":  18,
+    "versionName":  "2.4.4",
+    "apkUrl":  "https://github.com/fruiteshg-lgtm/FS-AppLock-Updates/releases/download/v2.4.4/app-release.apk",
+    "sha256":  "897a55a6cf9aa43bafb4ee3c43c67d27407ded26059dceaf744dce053ec47bc4",
+    "mandatory":  false,
+    "notes":  "FS AppLock 2.4.4 update."
 }
