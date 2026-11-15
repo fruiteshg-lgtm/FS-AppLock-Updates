@@ -1,8 +1,8 @@
 {
-    "versionCode":  26,
-    "versionName":  "2.5.0",
-    "apkUrl":  "https://github.com/fruiteshg-lgtm/FS-AppLock-Updates/releases/download/v2.5.0/app-release.apk",
-    "sha256":  "79f17882ce5ba16fa4eefee84146f8b8e7bbf9522c6a0509d65609f58b3ab1db",
+    "versionCode":  28,
+    "versionName":  "2.5.2",
+    "apkUrl":  "https://github.com/fruiteshg-lgtm/FS-AppLock-Updates/releases/download/v2.5.2/app-release.apk",
+    "sha256":  "1fc1ccaeaf00fc6d415ba64eacbff07c4a99444531e8e33d80e4b98f742a8312",
     "mandatory":  false,
-    "notes":  "FS AppLock 2.5.0 update."
+    "notes":  "FS AppLock 2.5.2 update."
 }
